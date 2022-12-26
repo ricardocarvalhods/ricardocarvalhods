@@ -4,6 +4,8 @@
 <br/><sub>Ph.D. in Differential Privacy (DP) and Natural Language Processing (NLP) @ SFU, Canada</sub>
 <br/><sub>Previously Applied Scientist Intern @ AWS, Canada</sub>
 
+https://ricardocarvalho.ca/
+
 <!---
 - 🎓 
 - 📊 
